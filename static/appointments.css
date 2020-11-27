@@ -1,0 +1,37 @@
+#divform
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    font-size: large;
+}
+
+#border
+{
+    outline: medium solid red;
+    padding: 50px;
+    text-align: center;
+    background-color: white;
+}
+
+#body1
+{
+    background-image: url('office.jpg');
+}
+
+#client
+{
+    color: red;
+    background-color: yellow;
+}
+
+#heading
+{
+    background-color: lightblue;
+}
+
+#schedule
+{
+    text-align: center;
+}
